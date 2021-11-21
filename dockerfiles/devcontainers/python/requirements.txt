@@ -1,0 +1,26 @@
+matplotlib
+pandas
+numpy
+jupyterlab
+pytest
+pytest-cov
+flake8
+pylint
+pymongo
+
+fastapi
+graphene
+graphql-core
+graphql-relay
+gunicorn
+uvicorn
+dateparser
+word2number
+transformers
+spacy==3.0.6
+
+# NLP
+# scikit-learn==0.24.2
+# tensorflow==2.6.0
+# tensorflow-text
+# tf-models-official
