@@ -1,0 +1,15 @@
+numpy
+pandas
+spacy==3.0.6
+click==7.1.2
+pymongo
+
+fastapi
+graphene
+graphql-core
+graphql-relay
+gunicorn
+uvicorn
+dateparser
+word2number
+transformers

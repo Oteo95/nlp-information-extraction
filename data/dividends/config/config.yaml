@@ -1,0 +1,77 @@
+---
+text: 'Currency'
+backText: 'currency'
+id: 0
+suffixKey: 'c'
+backgroundColor: '#B7C985'
+textColor: '#ffffff'
+---
+text: 'Symbol'
+backText: 'stock_symbol'
+id: 1
+suffixKey: 's'
+backgroundColor: '#4E757C'
+textColor: '#ffffff'
+---
+text: 'Company Name'
+backText: 'company_name'
+id: 3
+suffixKey: 'n'
+backgroundColor: '#86A1A6'
+textColor: '#ffffff'
+---
+text: 'Security Description'
+backText: 'security_description'
+id: 4
+suffixKey: 'd'
+backgroundColor: '#8fcfdb'
+textColor: '#ffffff'
+---
+text: 'Type'
+backText: 'type'
+id: 7
+suffixKey: 'y'
+backgroundColor: '#8DA88B'
+textColor: '#ffffff'
+---
+text: 'Frequency'
+backText: 'frequency'
+id: 8
+suffixKey: 'f'
+backgroundColor: '#FF7A7A'
+textColor: '#ffffff'
+---
+text: 'Announcement Date'
+backText: 'announcement_date'
+id: 9
+suffixKey: 'a'
+backgroundColor: '#BA8479'
+textColor: '#ffffff'
+---
+text: 'Record Date'
+backText: 'record_date'
+id: 10
+suffixKey: 'r'
+backgroundColor: '#DBB088'
+textColor: '#ffffff'
+---
+text: 'Ex Date'
+backText: 'ex_date'
+id: 11
+suffixKey: 'x'
+backgroundColor: '#DEC265'
+textColor: '#ffffff'
+---
+text: 'Payment Date'
+backText: 'payment_date'
+id: 12
+suffixKey: 'p'
+backgroundColor: '#E97D68'
+textColor: '#ffffff'
+---
+text: 'Per Share Amount'
+backText: 'per_share_amount'
+id: 13
+suffixKey: 'o'
+backgroundColor: '#0C6B7C'
+textColor: '#ffffff'
