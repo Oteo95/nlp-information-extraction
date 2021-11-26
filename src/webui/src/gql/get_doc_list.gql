@@ -1,0 +1,8 @@
+query get_doc_list{
+  documents{
+   	docid
+    creation
+    title
+    status
+  }
+}

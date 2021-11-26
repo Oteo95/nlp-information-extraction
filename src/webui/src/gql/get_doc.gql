@@ -1,0 +1,27 @@
+query get_document($docid: Int!){
+  document(docid:$docid){
+    docid
+    creation
+    title
+    text
+    status
+    annotations{
+      tagid
+      label
+      labelId
+      start
+      end
+      confidence
+      annotatedby
+    }
+    userannotations{
+      tagid
+      label
+      labelId
+      start
+      end
+      confidence
+      annotatedby
+    }
+  }
+}

@@ -1,0 +1,9 @@
+mutation update_annotations($docid: Int!, $userannotations: [InputAnnot]!
+){
+    updateAnnotations(
+        docid:$docid,
+        userannotations: $userannotations
+    ){
+        docid
+    }
+}
