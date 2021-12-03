@@ -7,6 +7,7 @@ pytest-cov
 flake8
 pylint
 pymongo
+ipywidgets
 
 fastapi
 graphene
@@ -16,11 +17,13 @@ gunicorn
 uvicorn
 dateparser
 word2number
-transformers
+# transformers
 spacy==3.0.6
 
 # NLP
-# scikit-learn==0.24.2
-# tensorflow==2.6.0
-# tensorflow-text
-# tf-models-official
+scikit-learn==0.24.2
+tensorflow
+tensorflow-estimator
+tensorflow-hub
+tensorflow-text
+tf-models-official==2.4.0
