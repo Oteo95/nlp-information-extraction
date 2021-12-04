@@ -49,7 +49,8 @@ If you start from an empty mongo DB, you need to populate it:
 2. Load cases into local MongoDB
 ```bash
 python src/extraction/scripts/documents_to_mongo.py
-```p
+```
+
 ## Changing the tag list in the tool
 
 Currently the tags that are shown in the front are defined in a ```src/webui/src/config/config.js``` Using the same structure, you can set any tag, for example 'conference' with the associated 'id', 'suffixKey', 'backgroundColor', an,ño..,kd 'textColor':
