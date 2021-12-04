@@ -68,6 +68,8 @@ Currently the tags that are shown in the front are defined in a ```src/webui/src
 
 ## Next steps
 
+- Add functionality to the next and previous doc buttons.
+
 - Avoid having predefined code elements such as tags in config.js. Use instead the database to have all the information for the configuration of the tool.
 
 - Automate tagging using models to assist the user. These annotations are stored in the annotation space instead of the user's annotation space.
