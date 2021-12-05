@@ -1,4 +1,4 @@
-# Table of Contentents
+# Table of Contents
 
 - [Information Extraction Using NLP Techniques](#information-extraction-using-nlp-techniques)
   * [Run the project in local](#run-the-project-in-local)
