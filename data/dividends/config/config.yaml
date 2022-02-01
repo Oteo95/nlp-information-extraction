@@ -13,13 +13,6 @@ suffixKey: 'n'
 backgroundColor: '#86A1A6'
 textColor: '#ffffff'
 ---
-text: 'Security Description'
-backText: 'security_description'
-id: 4
-suffixKey: 'd'
-backgroundColor: '#8fcfdb'
-textColor: '#ffffff'
----
 text: 'Type'
 backText: 'type'
 id: 7
