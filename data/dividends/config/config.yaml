@@ -6,13 +6,6 @@ suffixKey: 'c'
 backgroundColor: '#B7C985'
 textColor: '#ffffff'
 ---
-text: 'Symbol'
-backText: 'stock_symbol'
-id: 1
-suffixKey: 's'
-backgroundColor: '#4E757C'
-textColor: '#ffffff'
----
 text: 'Company Name'
 backText: 'company_name'
 id: 3
@@ -32,13 +25,6 @@ backText: 'type'
 id: 7
 suffixKey: 'y'
 backgroundColor: '#8DA88B'
-textColor: '#ffffff'
----
-text: 'Frequency'
-backText: 'frequency'
-id: 8
-suffixKey: 'f'
-backgroundColor: '#FF7A7A'
 textColor: '#ffffff'
 ---
 text: 'Announcement Date'
