@@ -8,14 +8,6 @@ const data = [
       textColor: '#000000',
     },
     {
-      text: 'Symbol',
-      backText: 'stock_symbol',
-      id: 1,
-      suffixKey: 's',
-      backgroundColor: '#4E757C',
-      textColor: '#000000',
-    },
-    {
       text: 'Company Name',
       backText: 'company_name',
       id: 3,
@@ -24,27 +16,11 @@ const data = [
       textColor: '#000000',
     },
     {
-      text: 'Security Description',
-      backText: 'security_description',
-      id: 4,
-      suffixKey: 'd',
-      backgroundColor: '#8fcfdb',
-      textColor: '#000000',
-    },
-    {
       text: 'Type',
       backText: 'type',
       id: 5,
       suffixKey: 'y',
       backgroundColor: '#8DA88B',
-      textColor: '#000000',
-    },
-    {
-      text: 'Frequency',
-      backText: 'frequency',
-      id: 6,
-      suffixKey: 'f',
-      backgroundColor: '#FF7A7A',
       textColor: '#000000',
     },
     {
